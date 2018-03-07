@@ -6,7 +6,6 @@ var autoprefixer  = require("gulp-autoprefixer");
 var concat        = require("gulp-concat");
 var cache         = require("gulp-cache");
 var imagemin      = require("gulp-imagemin");
-var inlineCss     = require("gulp-inline-css");
 
 // CSS stuff
 var sass          = require("gulp-sass");
